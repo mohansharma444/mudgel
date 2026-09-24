@@ -16,9 +16,9 @@ export default function About() {
               className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5] lg:aspect-auto lg:h-[650px] z-10"
             >
               <img
-                src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
-                alt="Medical professional consulting with patient"
-                className="w-full h-full object-cover"
+                src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=1200&q=80"
+                alt="Doctor in white coat with stethoscope"
+                className="w-full h-full object-cover object-center"
                 loading="lazy"
               />
               <div className="absolute inset-0 bg-dark-dark/10 mix-blend-multiply"></div>
